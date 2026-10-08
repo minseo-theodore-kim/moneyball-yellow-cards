@@ -144,7 +144,4 @@ Standard errors are clustered by match throughout.
 
 ## Note on tooling
 
-The scripts were written with assistance from Claude (Anthropic). All
-analyses were run by the authors in R, and every number reported in the
-paper comes from these scripts. The paper includes a fuller AI use
-statement.
+This repository contains only the two extension scripts, which the first author wrote after the Academy with coding assistance from Claude (Anthropic). The competition-stage code for the expected-goals and action value models is not included here (see the scope note above). All analyses were run by the authors in R, and every number reported in the paper comes from these scripts. The paper includes a fuller AI use statement.
